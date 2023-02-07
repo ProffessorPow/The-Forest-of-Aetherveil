@@ -9,6 +9,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviour/AttackBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviour/ImageBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Inputs/Singleton.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Inputs/SwipeDetection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Inputs/Utilities.cs" root0="FORCE_HIGHLIGHTING" />
@@ -74,6 +75,8 @@
       <workItem from="1674524023494" duration="234000" />
       <workItem from="1674524272286" duration="342000" />
       <workItem from="1675026909132" duration="6912000" />
+      <workItem from="1675127022013" duration="1593000" />
+      <workItem from="1675732092776" duration="3010000" />
     </task>
     <servers />
   </component>
